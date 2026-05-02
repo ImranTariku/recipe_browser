@@ -246,7 +246,7 @@ class _RecipeCard extends StatelessWidget {
           boxShadow: [
             BoxShadow(
               color: Colors.black.withOpacity(0.08),
-              blurRadius: 6,
+              blurRadius: 8,
               offset: const Offset(0, 3),
             ),
           ],
