@@ -198,7 +198,7 @@ class _SearchBar extends StatelessWidget {
             controller: controller,
             style: const TextStyle(fontSize: 15, color: Color(0xFF2C3E50)),
             decoration: InputDecoration(
-              hintText: 'Search any meal...',
+              hintText: '🔍 Find a meal...',
               hintStyle: TextStyle(color: Colors.grey[400], fontSize: 15),
               prefixIcon: const Icon(Icons.search,
                   color: Color(0xFF1B5E20), size: 22),
