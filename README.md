@@ -81,9 +81,11 @@ The app follows a clean separation of concerns as required by the assignment:
 ---
 
 ## 📦 Git Commits
-5b1d4c7 (HEAD -> main, origin/main) Add README with name, ID, and track details
-5d12a47 Improve card shadow
-638327c Add emoji to app title
-391b09f Improve search hint text
-8961f8a Add header comment to API service
-08f9966 Initial commit: recipe browser app
+## 📦 Git Commits
+
+- `5b1d4c7` – Add README with name, ID, and track details
+- `5d12a47` – Improve card shadow
+- `638327c` – Add emoji to app title
+- `391b09f` – Improve search hint text
+- `8961f8a` – Add header comment to API service
+- `08f9966` – Initial commit: recipe browser app
